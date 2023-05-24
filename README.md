@@ -3,7 +3,7 @@
 <h2 tabindex="-1" dir="auto">Technologies :memo:</h2>
 <p>
 <ul dir="auto">
-<li><a href="https://rubyonrails.org" rel="nofollow" target="_blank">JavaScript</a></li>
+<li><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="nofollow" target="_blank">JavaScript</a></li>
 </ul>
 </p>
 
