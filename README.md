@@ -4,6 +4,8 @@
 <p>
 <ul dir="auto">
 <li><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="nofollow" target="_blank">JavaScript</a></li>
+ <li><a href="https://developer.mozilla.org/en-US/docs/Web/HTML" rel="nofollow" target="_blank">HTML</a></li>
+ <li><a href="https://developer.mozilla.org/en-US/docs/Web/CSS" rel="nofollow" target="_blank">CSS</a></li>
 </ul>
 </p>
 
